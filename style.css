@@ -1,0 +1,75 @@
+ .body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #fff;
+            background: #e44d26;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        
+        form {
+            max-width: 400px;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 8px;
+        }
+        
+        input {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 16px;
+            box-sizing: border-box;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        
+        button {
+            background: #101595;
+            color: #ffffff;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+        
+        button:hover {
+            background: #1651a4;
+        }
+        
+        #searchBloodGroup, #donorTable {
+            max-width: 400px;
+            margin: 20px auto;
+            background: #1b8864;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        
+        #donorTable th, #donorTable td {
+            padding: 10px;
+            border-bottom: 1px solid #ccc;
+        }
+        
+
+        th, td {
+            border: 1px solid #9e0808;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #b20e0e;
+        }
+        
+    
